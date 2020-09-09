@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsctOtp", "RsctOtp\RsctOtp.csproj", "{20C63B5F-94E6-4B17-B951-F69965C54DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsctOtp.Test", "RsctOtp.Test\RsctOtp.Test.csproj", "{6604D3F8-F318-4012-86C9-10F9118B777C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C63B5F-94E6-4B17-B951-F69965C54DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C63B5F-94E6-4B17-B951-F69965C54DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C63B5F-94E6-4B17-B951-F69965C54DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C63B5F-94E6-4B17-B951-F69965C54DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6604D3F8-F318-4012-86C9-10F9118B777C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6604D3F8-F318-4012-86C9-10F9118B777C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6604D3F8-F318-4012-86C9-10F9118B777C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6604D3F8-F318-4012-86C9-10F9118B777C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DECD935-ADE2-43C8-82E3-7352608E39BE}
+	EndGlobalSection
+EndGlobal
